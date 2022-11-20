@@ -1,6 +1,11 @@
-# Bootcamp - Origamid
+<p align="center">
+  <img src="images/logo-origamid.png" alt="Logo Origamid" />
+</p>
 
-## See my trajectory:
+# Bootcamp - Origamid
+Em Novembro/2022 iniciei meus estudos na plataforma da Origamid com objetivo de aprimorar meus conhecimentos na área de Front-end.
+
+## Acompanhe minha trajetória:
 - [ ] UI Design for Beginners
 - [ ] HTML and CSS for Beginners
 - [X] ~CSS Flexbox~
@@ -23,8 +28,3 @@
 - [ ] Bootstrap 4
 - [ ] Front-End Automation with NPM
 - [ ] JavaScript and jQuery
-
-## License
-
-MIT - Free To Use
-*All softwares developed in this bootcamp is free to use by everyone.*
