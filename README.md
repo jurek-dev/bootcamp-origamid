@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo-origamid.png" alt="Logo Origamid" />
+  <img src="/images/logo-origamid.png" alt="Logo Origamid" />
 </p>
 
 # Bootcamp - Origamid
